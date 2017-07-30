@@ -1,4 +1,4 @@
-package cordova-plugin-mymath;
+package cordova.plugin.mymath;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
@@ -31,6 +31,7 @@ public class SimpleMath extends CordovaPlugin {
             this.minus(A,B,callbackContext);
             return true;
         }
+        return false;
     }
 
     private void coolMethod(String message, CallbackContext callbackContext) {

@@ -9,7 +9,7 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="SimpleMath">
-                <param name="android-package" value="cordova-plugin-mymath.SimpleMath" />
+                <param name="android-package" value="cordova.plugin.mymath.SimpleMath" />
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml" />
