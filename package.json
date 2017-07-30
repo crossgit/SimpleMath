@@ -1,0 +1,19 @@
+{
+  "name": "SimpleMath",
+  "version": "1.0.0",
+  "description": "", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://crossgit@github.com/crossgit/SimpleMath.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crossgit/SimpleMath/issues"
+  },
+  "homepage": "https://github.com/crossgit/SimpleMath#readme"
+}
