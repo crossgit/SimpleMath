@@ -21,6 +21,7 @@
                 <param name="ios-package" value="SimpleMath" />
             </feature>
         </config-file>
-        <source-file src="src/ios/SimpleMath.m" />
+        
+        <source-file src="src/ios/SimpleMath.swift" />
     </platform>
 </plugin>
